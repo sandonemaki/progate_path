@@ -5,3 +5,4 @@ gitの練習をする
 練習5
 練習６
 .git rm
+.git status
